@@ -1,0 +1,17 @@
+/*****
+
+Running  a C program from cmd
+
+E:\LogicBuildingC\.vscode\1 First C program>gcc FirstCodeInNTFile.c -o FirstCodeInNTFileOutput.exe
+
+E:\LogicBuildingC\.vscode\1 First C program>.\FirstCodeInNTFileOutput.exe
+Hello world
+Integer is 32
+Integer is 22
+Floating point numbers is 3.142550
+Character is a
+
+E:\LogicBuildingC\.vscode\1 First C program>
+
+
+*/
