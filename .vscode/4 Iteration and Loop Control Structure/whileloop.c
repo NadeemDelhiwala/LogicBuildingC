@@ -18,7 +18,7 @@ int main()
   printf("Printing numbers in reverse order from 10 to 1\n");
   number = 10;
   while (number >= 1)
-  {
+  { 
     printf("%d\n", number);
     number--;
     /* code */
