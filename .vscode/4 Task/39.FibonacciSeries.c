@@ -14,6 +14,7 @@ int main()
   }
   int previous = 0;
   int next = 1;
+  // next number is sum of previous two numbers which should be less than or equal to num
   while (previous + next <= num)
 
   {
