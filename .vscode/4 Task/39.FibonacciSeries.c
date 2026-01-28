@@ -14,7 +14,7 @@ int main()
   }
   int previous = 0;
   int next = 1;
-  while (next <= num)
+  while (previous + next <= num)
 
   {
     /* code */
